@@ -58,7 +58,6 @@ label .ball {
 svg{
     width: 20px;
     height: 20px;
-    color: aqua;
 }
 
 svg[data-icon=sun]{
